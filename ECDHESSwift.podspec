@@ -39,5 +39,5 @@ Extend JOSESwift 實作 JOSE ECDH-ES 系列 Swift lib
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'JOSESwift', '~> 1.8'
-  s.dependency 'CryptoSwift', '~> 1.0.0'
+  s.dependency 'CryptoSwift', '~> 1.4.0'
 end
