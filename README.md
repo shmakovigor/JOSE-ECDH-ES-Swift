@@ -42,7 +42,7 @@
 
 ## Requirements
 
-- iOS >= 10.0 
+- iOS >= 10.0
 - JOSESwift 1.8
 
 ## Installation
@@ -76,7 +76,6 @@ let encryptionJwe = try EcdhEsJwe(plaintext: plaintext, pubKeyJwkJson: pubJwk, h
 let jweCompactString = encryptionJwe.compactSerializedString
 
 ```
-
 
 Decryption
 ```swift
