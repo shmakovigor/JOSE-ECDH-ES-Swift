@@ -1,23 +1,23 @@
 PODS:
   - CryptoSwift (1.4.1)
   - ECDHESSwift (0.0.5):
-    - CryptoSwift (~> 1.4.0)
-    - JOSESwift (~> 1.8)
+    - CryptoSwift (~> 1.4.1)
+    - JOSESwift (~> 1.8.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - JOSESwift (1.8.1)
-  - Nimble (8.0.9)
+  - Nimble (9.2.0)
   - Quick (2.0.0)
 
 DEPENDENCIES:
-  - CryptoSwift (~> 1.4.0)
+  - CryptoSwift (~> 1.4.1)
   - ECDHESSwift (from `../`)
   - FBSnapshotTestCase (~> 2.1.4)
-  - JOSESwift (~> 1.8)
-  - Nimble (~> 8.0.1)
+  - JOSESwift (~> 1.8.1)
+  - Nimble (~> 9.2.0)
   - Quick (~> 2.0.0)
 
 SPEC REPOS:
@@ -34,12 +34,12 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CryptoSwift: 0bc800a7e6a24c4fc9ebeab97d44b0d5f73a78bd
-  ECDHESSwift: b5536d24240e7862867e517ec39476129da4f9e6
+  ECDHESSwift: 4659b5168474dab0ff887ac2df05dc39c7045acf
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   JOSESwift: 49c6e4497e061e085b9680b84b8cd6b5b64329bd
-  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Nimble: 4f4a345c80b503b3ea13606a4f98405974ee4d0b
   Quick: ce1276c7c27ba2da3cb2fd0cde053c3648b3b22d
 
-PODFILE CHECKSUM: baf1a0c69d279c9270ae312339bba44a4e8fedfb
+PODFILE CHECKSUM: 15b3cafdeb38db10a3c3f5aa9d2cbf19b4c8eab0
 
 COCOAPODS: 1.10.1
